@@ -13,8 +13,8 @@ $(document).ready(function() {
 
 	$(function() {
 		if ( document.location.href.indexOf('photos') > -1 ) {
-			$('.nav a[href="http://www.techhounds.com/photos/"]').parent().append('<div class="active"></div>');
-			$('.nav a[href="http://www.techhounds.com/photos/"]').parent().parent().parent().append('<div class="active"></div>');
+			$('.nav a[href="http://frc868.github.io/photos/index.html"]').parent().append('<div class="active"></div>');
+			$('.nav a[href="http://frc868.github.io/photos/index.html"]').parent().parent().parent().append('<div class="active"></div>');
 		}
 	});
 
