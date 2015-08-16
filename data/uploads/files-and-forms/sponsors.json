@@ -1,0 +1,310 @@
+{
+	"agile":[
+		{"name":"Agile Reasoning",
+		"logo":"../../data/uploads/page-photos/sponsors/agile.png",
+		"description":"\"Agile Reasoning is an Indianapolis based software development firm specializing in tailor-made cloud apps. Our clients use our services to create public or private web apps with data processing capabilities well beyond the typical marketing oriented web site. Whether you're creating a new business from scratch or need a technology upgrade for your existing business, our staff of experienced developers and projects managers is ready to bring your vision to life.\"",
+		"website":"http://www.agilereasoning.com",
+		"level":"bronze"}
+	],
+	"arc":[
+		{"name":"arcDESIGN",
+		 "logo":"../../data/uploads/page-photos/sponsors/arc.jpg",
+		 "description":"\"At arcDESIGN, we believe great architecture is more than just attractive buildings and spaces.   We view your facility as a tool that will help you accomplish your goals and vision.  By working together, we will lead you through a process that will allow you to discover solutions to your specific needs and will maximize the potential of your built environment.\"",
+		 "website":"http://arcdesign.us",
+		 "level":"bronze"}
+	],
+	"archarch":[
+		{"name":"Architectural Archaeology",
+		"logo":"none",
+		"description":"none",
+		"website":"none",
+		"level":"bronze"}
+	],
+	"boeing":[
+		{"name":"Boeing",
+		 "logo":"../../data/uploads/page-photos/sponsors/boeing-logo.jpg",
+		 "description":"\"Boeing is the world's leading aerospace company and the largest manufacturer of commercial jetliners and military aircraft combined. Additionally, Boeing designs and manufactures rotorcraft, electronic and defense systems, missiles, satellites, launch vehicles and advanced information and communication systems. As a major service provider to NASA, Boeing is the prime contractor for the International Space Station. The company also provides numerous military and commercial airline support services. Boeing provides products and support services to customers in 150 countries and is one of the largest U.S. exporters in terms of sales.\"",
+		 "website":"http://www.boeing.com",
+		 "level":"platinum"}
+	],
+	"carmelortho":[
+		{"name":"Carmel Orthodontics",
+		 "logo":"../../data/uploads/page-photos/sponsors/carmel-orthodontics.png",
+		 "description":"\"Dr. Ronald Miller and our entire staff here at Carmel Orthodontics love our work. Every day begins with the knowledge that we are going to help our patients attain excellent oral health and beautiful smiles. The day passes with time to chat and catch up with our patients as we make any necessary orthodontic adjustments. And the work day ends with the satisfaction of knowing we have made positive changes in the lives of our patients. It is an incredible job and we are truly thankful for it.\"",
+		 "website":"http://www.carmelorthodontics.com",
+		 "level":"bronze"}
+	],
+	"catalyst":[
+		{"name":"Catalyst Technology Group",
+		 "logo":"../../data/uploads/page-photos/sponsors/catalysttech.png",
+		 "description":"\"Catalyst Technology Group is an IT consulting firm. We provide IT support, technology infrastructure, and custom enterprise-level business applications to clients throughout the United States. and provide ongoing IT support and management for those projects.\"",
+		 "website":"http://www.catalysttg.com",
+		 "level":"silver"}
+	],
+	"cdi":[
+		{"name":"Center for Diagnostic Imaging",
+		 "logo":"../../data/uploads/page-photos/sponsors/cdi.png",
+		 "description":"\"CDI offers the highest quality of care through a network of outpatient imaging centers and mobile facilities in more than thirty states. Headquartered in Minneapolis, Minnesota; the organization serves more than one million patients a year through a diverse set of customers including healthcare providers, managed care organizations, hospitals, health systems and payors (government and third party).\"",
+		 "website":"http://www.mycdi.com",
+		 "level":"silver"}
+	],
+	"edwardjones":[
+		{"name":"Edward Jones Insurance",
+		 "logo":"none",
+		 "description":"\"Edward Jones is one of the nation’s fastest-growing financial services firms. We currently serve nearly 7 million clients through our network of more than 12,000 branch offices. We are seeking highly motivated, results-oriented individuals as we continue to grow and meet the needs of the long-term individual investor.\"",
+		 "website":"https://www.edwardjones.com",
+		 "level":"bronze"}
+	],
+	"coffings":[
+		{"name":"Coffing's Ro-Way Door Sales & Services Inc.",
+		 "logo":"none",
+		 "description":"\"Coffing's Ro-Way Door Sales & Service Inc. offers Logansport, IN area with garage doors and dock equipment. Family owned and operated for over 45 years, Coffing's Ro-Way Door Sales & Service Inc. has knowledgeable employees who deliver prompt service.\"",
+		 "website":"http://www.coffings.com",
+		 "level":"bronze"}
+	],
+	"delphi":[
+		{"name":"Delphi Foundation",
+		 "logo":"../../data/uploads/page-photos/sponsors/delphi.png",
+		 "description":"\"Delphi is a leading global supplier of electronics and technologies for automotive, commercial vehicle and other market segments. Operating major technical centers, manufacturing sites and customer support facilities in 30 countries, Delphi delivers real-world innovations that make products smarter and safer as well as more powerful and efficient.\"",
+		 "website":"http://www.delphi.com",
+		 "level":"platinum"}
+	],
+	"dss":[
+		{"name":"Digital Sight & Sound",
+		 "logo":"../../data/uploads/page-photos/sponsors/dss.png",
+		 "description":"\"Digital Sight & Sound sells, installs, and services commercial and residential low voltage systems. The company was founded in 1999 by Ray Rice to provide Custom Audio and Video sales and installation services to high end residential customers. Services provided are Digital Signage, Audio service for background music, paging systems, alarm services, telephone systems, access control, CCTV, conference rooms and training rooms systems, video conferencing, automation, computer networks and more.\"",
+		 "website":"http://dssindy.com",
+		 "level":"bronze"}
+	],
+	"eye":[
+		{"name":"Eye Level Learning",
+		 "logo":"../../data/uploads/page-photos/sponsors/eyelevellearning.jpg",
+		 "description":"\"At Eye Level, a premier supplemental education and enrichment program, students are offered innovative and effective methods, in a fun and exciting learning environment, where self-directed learning, individualized academic coaching, and critical thinking are at the core of helping children improve and excel in their academic pursuits. As positive study habits and valuable personality traits develop, these skills will also translate to all facets of life.\"",
+		 "website":"http://eyelevelcarmelsouth.com",
+		 "level":"silver"}
+	],
+	"ftm":[
+		{"name":"Fincancial Technologies & Management",
+		 "logo":"../../data/uploads/page-photos/sponsors/ftm.png",
+		 "description":"\"Financial Technologies & Management is a full service software technology and financial management CPA firm that has assisted over 200 nonprofit, schools and religious organizations to improve their financial operations since 2000. Our approach is to truly understand the organization through a comprehensive needs assessment and financial review. Only then can we provide specific recommendations towards improving an organization`s financial management capacity and financial operations.\"",
+		 "website":"http://www.ftmllc.com",
+		 "level":"gold"}
+	],
+	"frank":[
+		{"name":"Frankenstein Furniture",
+		 "logo":"../../data/uploads/page-photos/sponsors/frank.png",
+		 "description":"\"Frankenstein Furniture offers outstanding service and quality. We offer both onsite and in-home service for furniture restoration. We pride ourselves on the beauty of our work, and we look for ways to improve the quality and condition of every antique that comes to our shop. Elegant, beautiful and exquisite pieces arise from broken, old and tragic furniture with our help.\"",
+		 "website":"http://www.frankensteinfurniture.net",
+		 "level":"bronze"}
+	],
+	"mlb":[
+		{"name":"MLB Properties of Indiana",
+		 "logo":"none",
+		 "description":"none",
+		 "website":"none",
+		 "level":"bronze"}
+	],
+	"fusion":[
+		{"name":"Fusion Technology Partners LLC",
+		 "logo":"none",
+		 "description":"none",
+		 "website":"none",
+		 "level":"bronze"}
+	],
+	"github":[
+		{"name":"GitHub",
+		 "logo":"../../data/uploads/page-photos/sponsors/GitHub.png",
+		 "description":"\"GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over six million people use GitHub to build amazing things together. Originally founded by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett to simplify sharing code, GitHub has grown into the world`s largest code host.\"",
+		 "website":"http://github.com",
+		 "level":"silver"}
+	],
+	"greenway":[
+		{"name":"Greenway Consulting LLC",
+		 "logo":"none",
+		 "description":"none",
+		 "website":"http://margaretdesign.com",
+		 "level":"bronze"}
+	],
+	"inin":[
+		{"name":"Interactive Intelligence",
+		 "logo":"../../data/uploads/page-photos/sponsors/inin.png",
+		 "description":"\"With the unified IP business communications offering from Interactive Intelligence, your business gets complete solutions. A complete contact center platform for multichannel interactions, offered with a choice of deployment models – as a cloud service, on-premises, or a managed service where we do it all. IP telephony that extends scalable, application-rich IP PBX and messaging functionality throughout the enterprise. Business process automation to automate multi-step people-centric processes, and document management solutions to handle even the most extensive information volumes. Our industry solutions are complete and tailored with expertise in accounts receivable management, financial institutions, government agencies, the insurance industry, and outsourcers.\"",
+		 "website":"http://www.inin.com",
+		 "level":"gold"}
+	],
+	"lentz":[
+		{"name":"Lentz Independent Consulting",
+		 "logo":"none",
+		 "description":"\"Providing contracting and subcontracting services in the Indianapolis area for Java/JEE software development, project management, business analysis, and testing.\"",
+		 "website":"http://lentzic.com",
+		 "level":"gold"}
+	],
+	"moriarity":[
+		{"name":"Daniel F. and Ellen Frances Moriarty Fund for Technology and Leadership",
+		 "logo":"none",
+		 "description":"none",
+		 "website":"none",
+		 "level":"diamond"}
+	],
+	"chs":[
+		{"name":"Carmel High School",
+		 "logo":"../../data/uploads/page-photos/sponsors/CarmelHS.jpg",
+		 "description":"\"TechHOUNDS students all attend Carmel High School located in Carmel, Indiana. We are fortunate to have our well-equipped workspace and meeting places at the school itself. In addition, our school administration is notably supportive of all of our endeavors, not only in monetary contribution, but in attending our events and competitions.\"",
+		 "website":"http://www.ccs.k12.in.us/chs/home",
+		 "level":"signature"}
+	],
+	"multimedia":[
+		{"name":"Multimedia Memories",
+		 "logo":"../../data/uploads/page-photos/sponsors/Multimedia-Memories.png",
+		 "description":"\"Multimedia Memories is your source for custom, keepsake DVDs from your photo and videos. We edit video, transfer home movies to DVD, create video and photo montages for any occasion.\"",
+		 "website":"http://www.multimediamemoriesindy.com",
+		 "level":"bronze"}
+	],
+	"fat-atom":[
+		{"name":"Fat Atom",
+		 "logo":"../../data/uploads/page-photos/sponsors/fat-atom.jpg",
+		 "description":"\"Fat Atom is an \"outside the box\" marketing agency that is edgy enough to scare you and skilled enough to impress you. Services we perform for our clients: Strategy and Consulting, Branding, Content Marketing, Inbound Lead Generation, Outbound Lead Generation, Graphic Design, Web Development, PR, Content Writing, Social Media, Full Service Email Marketing, SEM (PPC, Internet Advertising Management & SEO) Photography and Video Production.\"",
+		 "website":"http://fatatom.com",
+		 "level":"bronze"}
+	],
+	"ismus":[
+		{"name":"Ismus LLC",
+		 "logo":"none",
+		 "description":"\"We offer a full range of professional consulting services to help maximize the value of your business investment. We have helped businesses of all kinds enhance operational efficiency, Security and Safety as well as drive levels of performance, while improving customer satisfaction and loyalty. We have the resources your organization needs.  —including the tools and accelerators, and the experienced team—to successfully guide your projects from strategy to completion. We leverage our enormous base of experience, wealth of best practice resources, and the latest quality management techniques to provide you with high-value services and deliverables that will improve your business. Our highly regarded consulting services can help you address a wide variety of business challenges. Give us a call today to find out how we can help you thrive.\"",
+		 "website":"http://ismusllc.com",
+		 "level":"bronze"}
+	],
+	"kona":[
+		{"name":"Kona Jack's",
+		 "logo":"../../data/uploads/page-photos/sponsors/kona.png",
+		 "description":"\"Kona Jack’s Restaurant, Fish Market and Sushi Bar, named Best Seafood Restaurant for ten years running by Indianapolis Monthly, and Best Seafood Restaurant by Nuvo Newsweekly, boasts the widest array of fresh and salt-water fish, shellfish, clams, oysters, and sushi in the Midwest.\"",
+		 "website":"http://jacksarebetter.net",
+		 "level":"bronze"}
+	],
+	"park":[
+		{"name":"Park Avenue Rentals",
+		 "logo":"none",
+		 "description":"none",
+		 "website":"none",
+		 "level":"bronze"}
+	],
+	"manoj":[
+		{"name":"Manoj Kumar",
+		 "logo":"none",
+		 "description":"none",
+		 "website":"none",
+		 "level":"silver"}
+	],
+	"performance-metals":[
+		{"name":"Performance Metals",
+		 "logo":"../../data/uploads/page-photos/sponsors/performance%20metals.png",
+		 "description":"\"Performance Metals began producing quality stainless steel sheet products in 1985. Conveniently located at the \"Crossroads of America\", we are situated close to stainless producing mills and major markets. In addition to this cost advantage, our focus on quality and service has yeilded long term partnerships with our customers. We stock a full range of 300 and 400 series stainless sheet. Our capabilities include: precision blanks, slit coil and pattern sheets. Additionally, we offer stainless steel tube products, aluminum sheared blanks and sheet.\"",
+		 "website":"http://performancemetals.biz",
+		 "level":"bronze"}
+	],
+	"pts":[
+		{"name":"Polymer Technology Systems, Inc.",
+		 "logo":"../../data/uploads/page-photos/sponsors/pts.jpg",
+		 "description":"\"Polymer Technology Systems, Inc. (PTS, Inc.) is a global provider of point-of-care diagnostic products to the healthcare industry. Headquartered in Indianapolis, Indiana, PTS, Inc. manufactures products for distribution in 100 countries around the world.\"",
+		 "website":"http://www.cardiochek.com",
+		 "level":"gold"}
+	],
+	"redali":[
+		{"name":"Redali Consulting, Inc.",
+		 "logo":"../../data/uploads/page-photos/sponsors/redali.png",
+		 "description":"\"Redali Consulting offers a wide range of research, design and development services. We believe it is important to maximize the usability and utility of the front end of your product while minimizing the maintenance and support of the back end. Iterative research and design is key.\"",
+		 "website":"http://www.redali.com",
+		 "level":"platinum"}
+	],
+	"revtech":[
+		{"name":"Revelant Technologies",
+		 "logo":"none",
+		 "description":"\"Founded in 2003, Revelant Technologies is an independent IT professional services firm that optimizes business processes by delivering best-in-class customer relationship practices and technologies for projects large and small.\"",
+		 "website":"http://www.revelanttech.com",
+		 "level":"gold"}
+	],
+	"tiek":[
+		{"name":"Tiek Dental Studio",
+		 "logo":"none",
+		 "description":"\"Started in the heart of Carmel, our office is now a more dedicated and personalized studio for cosmetic and family dentistry! While focusing on giving our patients the highest quality dental treatment, we want to provide a warm and friendly environment that helps the patient know that we care. Our goal is to help you achieve any dental goal you have in mind, and to do so with care and precision.\"",
+		 "website":"tiekdental.com",
+		 "level":"bronze"}
+	],
+	"westfield":[
+		{"name":"Westfield Steel",
+		 "logo":"../../data/uploads/page-photos/sponsors/westfield-steel.png",
+		 "description":"\"Westfield Steel is an independent, family-owned business.  Our headquarters and main processing center is in Westfield, IN.  Since our start in 1977, we have grown to accommodate our customers’ needs.  We credit our success to our quality people and the capacity to provide our customers quality material and processing.\"",
+		 "website":"http://www.westfieldsteel.com",
+		 "level":"bronze"}
+	],
+	"crownpoint":[
+		{"name":"Crownpoint",
+		 "logo":"none",
+		 "description":"none",
+		 "website":"none",
+		 "level":"bronze"}
+	],
+	"kcs":[
+		{"name":"Kcsproductions l.l.c.",
+		 "logo":"../../data/uploads/page-photos/sponsors/kcsproductions.png",
+		 "description":"\"Kcsproductions l.l.c. is a family owned enterprise providing Videography and Photography services to community theaters and schools in the Indianapolis area. Kcsproductions provides custom videography for live theater performances, photobooth services for special events and photography services. The company also provides video conversion from old and obsolete media (i.e. Betamax, vhs, etc..) to current media. Kcsproductions has been supporting the Carmel High School TechHOUNDS for several years providing video and photography coverage during the team's 6-week build season as well as during competitions.\"",
+		 "website":"none",
+		 "level":"platinum"}
+	],
+	"rolls-royce":[
+		{"name":"Rolls-Royce",
+		 "logo":"../../data/uploads/page-photos/sponsors/rollsroyce.png",
+		 "description":"\"Rolls-Royce, a world-leading provider of power systems and services for use on land, at sea and in the air, operates in four global markets - civil aerospace, defense aerospace, marine and energy. We continue to invest in core technologies, products, people and capabilities with the objective of broadening and strengthening the product portfolio, improving efficiency and enhancing the environmental performance of its products.\"",
+		 "website":"http://www.rolls-royce.com",
+		 "level":"signature"}
+	],
+	"beagleboard":[
+		{"name":"BeagleBoard.org",
+		 "logo":"none",
+		 "description":"\"The BeagleBoard.org Foundation is a US-based 501(c) non-profit corporation existing to provide education in and promotion of the design and use of open-source software and hardware in embedded computing. BeagleBoard.org provides a forum for the owners and developers of open-source software and hardware to exchange ideas, knowledge and experience. On occasion, BeagleBoard.org provides for the promotion of communication with other individuals interested in open-source software and hardware. BeagleBoard.org is the result of an effort by a collection of passionate individuals, including several employees of Texas Instruments, interested in creating powerful, open, and embedded devices. We invite you to participate and become part of BeagleBoard.org, defining its direction.\"",
+		 "website":"http://beagleboard.org",
+		 "level":"gold"}
+	],
+	"allison":[
+		{"name":"Allison Transmission",
+		 "logo":"../../data/uploads/page-photos/sponsors/AllisonTransmission.jpg",
+		 "description":"\"Because we`re focused on understanding and satisfying the needs of our customers, we`re constantly analyzing, refining and improving our products and their features. Rather than being content to rest on our past successes, Allison is driven by a true commitment to excellence without compromise that ensures our products are the highest quality available today.\"",
+		 "website":"http://www.allisontransmission.com",
+		 "level":"gold"}
+	],
+	"pons":[
+		{"name":"Hector Pons",
+		 "logo":"none",
+		 "description":"none",
+		 "website":"none",
+		 "level":"bronze"}
+	],
+	"mdlink":[
+		{"name":"MDLink",
+		 "logo":"none",
+		 "description":"none",
+		 "website":"none",
+		 "level":"silver"}
+	],
+	"waterjet":[
+		{"name":"Waterjet Cutting of Indiana",
+		 "logo":"../../data/uploads/page-photos/sponsors/WJCofIndiana.png",
+		 "description":"\"Waterjet Cutting of Indiana, Inc. uses two of nature`s own elements; water and highly refined abrasive, propelled at three times the speed of sound, to make incredibly accurate and precise cuts in virtually any material.\"",
+		 "website":"http://www.waterjetcuttingofindiana.com",
+		 "level":"gold"}
+	],
+	"kiwanis":[
+		{"name":"Carmel-Clay Kiwanis",
+		 "logo":"../../data/uploads/page-photos/sponsors/kiwanis.png",
+		 "description":"\"Kiwanians are volunteers changing the world through service to children and communities. Kiwanis members help shelter the homeless, feed the hungry, mentor the disadvantaged, and care for the sick. They develop youth as leaders, build playgrounds, raise funds for pediatric research, and much more. Kiwanis is a global organization of volunteers dedicated to changing the world, one child and one community at a time.\"",
+		 "website":"http://www.carmelclaykiwanis.org",
+		 "level":"gold"}
+	],
+	"axis":[
+		{"name":"Axis Communications",
+		 "logo":"none",
+		 "description":"\"Axis is the market leader in network video and a driving force behind the shift from analog to digital video surveillance, which paves the way for a more secure, smarter and safer world. Axis offers network video solutions for professional installations featuring products and solutions that are based on innovative and open technical platforms.\"",
+		 "website":"http://www.axis.com",
+		 "level":"bronze"}
+	]
+}
